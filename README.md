@@ -2,7 +2,7 @@
 Overview
 The LibraryPro System is a robust, comprehensive Command Line Interface (CLI) application designed to modernize and automate the routine operations of a library. It aims to eliminate the inefficiencies associated with manual record-keeping by providing a highly efficient and reliable computerized platform.
 
-Built adhering to strict project constraints, the system uses core Java features, including arrays for efficient data storage and manipulation, and a single-class architecture without reliance on external libraries or complex data structures.
+Built adhering to strict project constraints, the system uses core Java features, including arrays for efficient data storage and manipulation.
 
 Key Features
 LibraryPro offers a complete suite of functionalities to manage all critical library operations securely and efficiently.
