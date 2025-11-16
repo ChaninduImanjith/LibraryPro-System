@@ -33,6 +33,6 @@ public class Book {
     @Override
     public String toString() {
         return String.format("%-10s %-30s %-20s %-15s %-10s",
-                bookId, title, author, genre, quantity);
+                 bookId, title, author, genre, quantity);
     }
 }
